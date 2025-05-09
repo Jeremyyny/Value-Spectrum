@@ -1,3 +1,11 @@
+
+<a name="readme-top"></a>
+
+<div align="center">
+<img src="https://github.com/Jeremyyny/Value-Spectrum/blob/main/assets/LOGO_SPEC.png" alt="Value-Spectrum Logo" width="100">
+</div>
+
+
 # Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts
 
 <!--- BADGES: START --->
