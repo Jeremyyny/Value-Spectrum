@@ -15,10 +15,18 @@
 
 ---
 
-## News
+## Updates
+
+### News
 
 - **2024-12-19**: 📄 Our paper "Value-Spectrum" is now available as a preprint on ArXiv! Read it [here](https://arxiv.org/pdf/2411.11479)!
+  
+### TODO
 
+Stay tuned, we're working on the following:
+
+- [ ] Upload Dataset to Huggingface 
+- [ ] Add Project Page
 ---
 
 ## Introduction
@@ -52,6 +60,21 @@
 <p align="center">
     <img src="assets/models/dataset.png" width="80%"> <br>
     <em>Overview of short video screenshots distribution of Value-Spectrum Dataset<em>
+</p>
+
+
+Our study also shows that VLMs can effectively adopt specific personas and align their preferences with predefined roles, demonstrating their potential for role-playing tasks in social media environments. We validate two prompting strategies (Simple and ISQ), with ISQ significantly improving persona steerability and model adaptability.
+
+<p align="center">
+    <img src="assets/models/Persona_agent.png" width="80%"> <br>
+    <em>Exploring Value-Driven Role-Playing in Vision-Language Models</em>
+</p>
+
+We further contrast VLM outputs with those from text-only LLMs using image descriptions, offering insights into how modality influences value preferences and model behavior — whether visual cues meaningfully shift personality-like inclinations.
+
+<p align="center">
+    <img src="assets/ablation study/vlm_llm.png" width="80%"> <br>
+    <em>Value Distribution Comparison between VLMs and corresponding LLMs</em>
 </p>
 
 ## :white_check_mark: Cite
