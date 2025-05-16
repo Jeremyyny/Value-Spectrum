@@ -19,6 +19,7 @@
 
 ### News
 
+- **2025-05-15**: ⭐ Our paper "Value-Spectrum" has been accepted to [ACL 2025](https://2025.aclweb.org/) main!
 - **2024-12-19**: 📄 Our paper "Value-Spectrum" is now available as a preprint on ArXiv! Read it [here](https://arxiv.org/pdf/2411.11479)!
   
 ### TODO
@@ -27,6 +28,9 @@ Stay tuned, we're working on the following:
 
 - [ ] Upload Dataset to Huggingface 
 - [ ] Add Project Page
+- [ ] Add Evaluation code
+- [ ] Add VLM agent embedding in social media code
+- [ ] Add Ablation study with human annotation code
 ---
 
 ## Introduction
