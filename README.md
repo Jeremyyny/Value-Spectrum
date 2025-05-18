@@ -89,5 +89,6 @@ We further contrast VLM outputs with those from text-only LLMs using image descr
 @inproceedings{Li2024ValueSpectrumQP,
   title={Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts},
   author={Jingxuan Li and Yuning Yang and Shengqi Yang and Linfan Zhang and Ying Nian Wu},
-  year={2024},
+  booktitle={Annual Meeting of the Association for Computational Linguistics},
+  year={2025},
 }
