@@ -11,6 +11,7 @@
 <!--- BADGES: START --->
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
 [![Arxiv](https://img.shields.io/badge/arXiv-2411.11479-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2411.11479)
+[![Website](https://img.shields.io/badge/Website-ValueSpectrum-D41544)](https://jeremyyny.github.io/ValueSpectrum.github.io/)
 <!--- BADGES: END --->
 
 ---
@@ -27,7 +28,7 @@
 Stay tuned, we're working on the following:
 
 - [ ] Upload Dataset to Huggingface 
-- [ ] Add Project Page
+- [x] Add Project Page
 - [ ] Add Evaluation code
 - [ ] Add VLM agent embedding in social media code
 - [ ] Add Ablation study with human annotation code
