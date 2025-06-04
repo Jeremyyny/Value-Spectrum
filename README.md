@@ -12,6 +12,7 @@
 [![GitHub license](https://img.shields.io/badge/License-MIT-green.svg?logo=github)](https://lbesson.mit-license.org/)
 [![Arxiv](https://img.shields.io/badge/arXiv-2411.11479-B31B1B.svg?logo=arxiv)](https://arxiv.org/abs/2411.11479)
 [![Website](https://img.shields.io/badge/Website-ValueSpectrum-D41544)](https://jeremyyny.github.io/ValueSpectrum.github.io/)
+[![Docs](https://img.shields.io/badge/Docs-ValueSpectrum-4B8BBE)](https://value-spectrum.readthedocs.io/en/latest/)
 <!--- BADGES: END --->
 
 ---
@@ -32,6 +33,7 @@ Stay tuned, we're working on the following:
 - [ ] Add Evaluation code
 - [ ] Add VLM agent embedding in social media code
 - [ ] Add Ablation study with human annotation code
+- [x] Add Readthedocs(with detailed instruction)
 ---
 
 ## Introduction
